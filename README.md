@@ -25,8 +25,9 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 - [Twitter di Sio](https://twitter.com/scottecs)
 
-### Musei online
+### Musei e Cultura
 
+- [Bologna Agenda Cultura](http://agenda.comune.bologna.it/cultura/)
 - [Google Arts & Culture - Collezioni](https://artsandculture.google.com/partner?hl=it)
 - [10 musei da visitare stando a casa](https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/): linkiesta.it - I tour virtuali e collezioni online. Ecco i 10 musei da visitare stando a casa
 
