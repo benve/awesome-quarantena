@@ -22,6 +22,12 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Google Arts & Culture - Collezioni](https://artsandculture.google.com/partner?hl=it)
 - [10 musei da visitare stando a casa](https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/): linkiesta.it - I tour virtuali e collezioni online. Ecco i 10 musei da visitare stando a casa
 
+### Documentari e lezioni
+
+#### Storia
+
+- [Lezioni di Storia](https://www.youtube.com/channel/UCNd9ycN9KUm4efGdbosmLxw)
+
 ## Ascoltare su internet
 
 - [Ad alta voce](https://www.raiplayradio.it/programmi/adaltavoce/): audiolibri
