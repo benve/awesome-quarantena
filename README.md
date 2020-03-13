@@ -35,10 +35,12 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Bologna Agenda Cultura](http://agenda.comune.bologna.it/cultura/)
 - [Istituzione Bologna Musei](http://www.museibologna.it/documenti/101822): Percorsi Online
   - [Istituzione Bologna Musei - Video](http://www.museibologna.it/collezioni_digitali/101827)
+- [MAMBO Bologna](https://www.youtube.com/watch?v=qZ8qe6sojLI&list=PLKEGGAZVAqrz5vE79RgmUvpxrKyZvwkn-)
 - [Google Arts & Culture - Collezioni](https://artsandculture.google.com/partner?hl=it)
 - [10 musei da visitare stando a casa](https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/): linkiesta.it - I tour virtuali e collezioni online. Ecco i 10 musei da visitare stando a casa
 - [Museo Egizio, Torino](https://www.facebook.com/museoegizio/)
 - [Museo Popoli e Culture di Milano](https://www.pimemilano.com/News-Museo/videolab-costruiamo-un-quadrato-da-letterato.html): Costruiamo un quadrato da letterato cinese. Da costruire, per bambini.
+
 
 ### Documentari e lezioni
 
