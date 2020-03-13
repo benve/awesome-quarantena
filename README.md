@@ -40,6 +40,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [10 musei da visitare stando a casa](https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/): linkiesta.it - I tour virtuali e collezioni online. Ecco i 10 musei da visitare stando a casa
 - [Museo Egizio, Torino](https://www.facebook.com/museoegizio/)
 - [Museo Popoli e Culture di Milano](https://www.pimemilano.com/News-Museo/videolab-costruiamo-un-quadrato-da-letterato.html): Costruiamo un quadrato da letterato cinese. Da costruire, per bambini.
+- [Madre door-to-door Napoli](http://www.madrenapoli.it/calendario/madre-door-to-door/): Si parte domenica 15 marzo, alle ore 11.30
 
 
 ### Documentari e lezioni
