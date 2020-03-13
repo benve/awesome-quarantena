@@ -18,7 +18,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Viva la vida](https://www.youtube.com/watch?v=vPmrHrM4qbw): del Teatro Biondo Palermo
 - [Teatro Carlo Felice Genova](http://www.streamingcarlofelice.com/): tutti i giorni ore 20
 - [𝗩𝗘𝗦𝗨𝗩𝗜𝗔𝗡𝗔 𝗰𝗼𝗻 𝗠𝗮𝗿𝗰𝗼 𝗭𝘂𝗿𝘇𝗼𝗹𝗼 𝗲 𝗗𝗮𝘃𝗶𝗱𝗲 𝗖𝗼𝘀𝘁𝗮𝗴𝗹𝗶𝗼𝗹𝗮](https://www.facebook.com/watch/?v=2759127240880636) Sabato 14 marzo ore 21.00
-
+- [Decameron - una storia ci salverà](https://www.facebook.com/videodecameron/)
 
 ### Streaming Gratuito
 
