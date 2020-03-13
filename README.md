@@ -17,6 +17,10 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Raiplay](https://www.raiplay.it/)
 - [Paramount Network](https://www.paramountnetwork.it/film)
 
+### Fumetti e immagini
+
+- [Twitter di Sio](https://twitter.com/scottecs)
+
 ### Musei online
 
 - [Google Arts & Culture - Collezioni](https://artsandculture.google.com/partner?hl=it)
