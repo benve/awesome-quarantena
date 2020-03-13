@@ -24,6 +24,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 - [Raiplay](https://www.raiplay.it/)
 - [Paramount Network](https://www.paramountnetwork.it/film)
+- [Mediaset Play](https://www.mediasetplay.mediaset.it/)
 
 ### Fumetti e immagini
 
