@@ -8,8 +8,12 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 ## Guardare su internet
 
-### Film
+### Film ed eventi
 
+- [Teatro Comunale di Bologna](http://www.tcbo.it/): Il Teatro propone l'ascolto e la visione in podcast in HD – per tre sabati consecutivi alle ore 21.00 – di tre titoli d’opera andati in scena nella scorsa stagione
+  - 14 marzo | Rigoletto
+  - 21 marzo | La traviata
+  - 28 marzo | Il barbiere di Siviglia
 - [IL RAGAZZO PIÙ FELICE DEL MONDO](https://www.youtube.com/watch?v=Oq-7ejJ0X4s)
 
 ### Streaming Gratuito
