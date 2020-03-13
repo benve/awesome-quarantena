@@ -1,6 +1,6 @@
 # awesome-quarantena
 
-Un elenco di risorse gratuite per riuscire a sopportare meglio la quarantenain Italia.
+Un elenco di risorse gratuite per riuscire a sopportare meglio la quarantena in Italia.
 
 L'obbiettivo è distrarsi facendo qualcosa di divertente aspettando di tornare a poter uscire di nuovo da casa.
 
