@@ -8,7 +8,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 ## Guardare su internet
 
-### Film ed eventi
+### Film, concerti ed eventi
 
 - [Teatro Comunale di Bologna](http://www.tcbo.it/): Il Teatro propone l'ascolto e la visione in podcast in HD – per tre sabati consecutivi alle ore 21.00 – di tre titoli d’opera andati in scena nella scorsa stagione
   - 14 marzo | Rigoletto
@@ -17,6 +17,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [IL RAGAZZO PIÙ FELICE DEL MONDO](https://www.youtube.com/watch?v=Oq-7ejJ0X4s)
 - [Viva la vida](https://www.youtube.com/watch?v=vPmrHrM4qbw): del Teatro Biondo Palermo
 - [Teatro Carlo Felice Genova](http://www.streamingcarlofelice.com/): tutti i giorni ore 20
+- [𝗩𝗘𝗦𝗨𝗩𝗜𝗔𝗡𝗔 𝗰𝗼𝗻 𝗠𝗮𝗿𝗰𝗼 𝗭𝘂𝗿𝘇𝗼𝗹𝗼 𝗲 𝗗𝗮𝘃𝗶𝗱𝗲 𝗖𝗼𝘀𝘁𝗮𝗴𝗹𝗶𝗼𝗹𝗮](https://www.facebook.com/watch/?v=2759127240880636) Sabato 14 marzo ore 21.00
 
 
 ### Streaming Gratuito
