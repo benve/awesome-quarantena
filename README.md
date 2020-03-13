@@ -25,6 +25,9 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Raiplay](https://www.raiplay.it/)
 - [Paramount Network](https://www.paramountnetwork.it/film)
 - [Mediaset Play](https://www.mediasetplay.mediaset.it/)
+- [Videoteca di Morando](https://www.longtake.it/news/videoteca-di-morando-offre-laccesso-gratuito-ai-grandi-capolavori-del-cinema)
+- [Ischia Film Festival](http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film)
+- [Schermo dell'arte - MyMovies](https://www.mymovies.it/iorestoacasa/schermodellarte/)
 
 ### Fumetti e immagini
 
@@ -66,3 +69,6 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 ### Video Games
 - [MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 - [Epic Games](https://www.epicgames.com/): Ogni settimana alcuni giochi gratuiti
+
+## Riferimenti
+- https://www.avvenire.it/attualita/pagine/libri-musei-e-spettacoli-online-cosi-la-cultura-entra-nelle-case
