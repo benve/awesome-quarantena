@@ -15,6 +15,8 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
   - 21 marzo | La traviata
   - 28 marzo | Il barbiere di Siviglia
 - [IL RAGAZZO PIÙ FELICE DEL MONDO](https://www.youtube.com/watch?v=Oq-7ejJ0X4s)
+- [Viva la vida](https://www.youtube.com/watch?v=vPmrHrM4qbw): del Teatro Biondo Palermo
+
 
 ### Streaming Gratuito
 
