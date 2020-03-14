@@ -29,10 +29,6 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Ischia Film Festival](http://www.ischiafilmfestival.it/index.php/it/iscrivere-un-film)
 - [Schermo dell'arte - MyMovies](https://www.mymovies.it/iorestoacasa/schermodellarte/)
 
-### Fumetti e immagini
-
-- [Twitter di Sio](https://twitter.com/scottecs)
-
 ### Musei e Cultura
 
 - [Bologna Agenda Cultura](http://agenda.comune.bologna.it/cultura/)
@@ -66,6 +62,18 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 - [Il Saggiatore - ebook in regalo](https://www.ilsaggiatore.com/solidarieta/): Ogni due giorni, un diverso ebook del catalogo del Saggiatore
 - [Libro giallo ambientato nel mondo della chitarra](https://gruppoaccordo.it/giallo-01-testo.epub)
+- [Abbonamento gratuito per tre mesi a Smart Tales](http://smarttales.marshmallow-games.com/): Gli utenti interessati dall’iniziativa possono scaricare gratuitamente l'app Android o iOS alla pagina dedicata e inserire all'interno dell'app il codice **ST2020IT**
+- Vanity Fair, Vogue, Wired, GQ, La Cucina Italiana, AD, Traveller: In omaggio per 3 mesi le copie digitali di tutti i magazine delle Edizioni Condé Nast Italia. Scarica la copia digitale del magazine che preferisci direttamente dall’app del magazine su App Store o Google Play. Clicca su “Free Pass”, registra il tuo account ed inserisci i seguenti codici: VF4YOU per Vanity Fair, VOGUE4YOU per Vogue, WIRED4YOU per Wired, GQ4YOU per GQ, LCI4YOU per La Cucina Italiana, AD4YOU per AD, TRAVELLER4YOU per Traveller. 
+-[Elettronica In](https://www.elettronicain.it/blog/2020/03/10/ioleggoacasa-il-numero-di-marzo-e-gratis/)
+- Gambero Rosso: Scarica l'app Gambero Rosso da App store o Google store sul tuo smartphone o tablet. Fai login dopo esserti registrato sulla pagina dedicata https://www.gamberorosso.it/abbonamento-rivista-digitale-3-mesi-gratis/. Saranno disponibili gratuitamente i tre numeri della rivista pubblicati dopo la data di registrazione.
+- [Hystrio](https://www.hystrio.it/covid19-hystrio-aderisce-alliniziativa-di-solidarieta-digitale/)
+- Bertoni Editore: Chiunque potrà scegliere un titolo dal sito www.bertonieditore.com, ed inviare una email a j.bertoni@outlook.it con scritto: nome, cognome e titolo scelto. Verrà inviato il libro in formato digitale (pdf o ebook)
+- L'Automobile: Puoi richiedere l'abbonamento gratuito scrivendo una mail a solidarietadigitale@lautomobile.it con oggetto “Solidarietà l'Automobile”. Riceverai una mail con il codice e le istruzioni per attivare l'abbonamento gratuito.
+
+
+### Fumetti
+
+- [Twitter di Sio](https://twitter.com/scottecs)
 
 ## Giocare in compagnia
 
