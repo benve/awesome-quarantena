@@ -48,6 +48,8 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 ### Documentari e lezioni
 
+- [Attività educative per bambini e ragazzi](https://scienzaexpress.it/2020/03/solidarieta-digitale/)
+
 #### Storia
 
 - [Lezioni di Storia](https://www.youtube.com/channel/UCNd9ycN9KUm4efGdbosmLxw)
@@ -59,6 +61,11 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Alle Otto Della Sera](https://www.raiplayradio.it/programmi/alleottodellasera/archivio/puntate/): ciclo di podcast su storia cultura, eventi e personaggi...
 - [Storie Libere](https://storielibere.fm/): tantissimi podcast interessanti
   - [IL GORILLA CE L’HA PICCOLO](https://storielibere.fm/il-gorilla/): sessualità nel mondo animale
+
+## Leggere
+
+- [Il Saggiatore - ebook in regalo](https://www.ilsaggiatore.com/solidarieta/): Ogni due giorni, un diverso ebook del catalogo del Saggiatore
+- [Libro giallo ambientato nel mondo della chitarra](https://gruppoaccordo.it/giallo-01-testo.epub)
 
 ## Giocare in compagnia
 
@@ -73,3 +80,4 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 ## Riferimenti
 - https://www.avvenire.it/attualita/pagine/libri-musei-e-spettacoli-online-cosi-la-cultura-entra-nelle-case
+- https://solidarietadigitale.agid.gov.it/#/
