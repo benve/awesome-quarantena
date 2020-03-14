@@ -69,7 +69,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Hystrio](https://www.hystrio.it/covid19-hystrio-aderisce-alliniziativa-di-solidarieta-digitale/)
 - Bertoni Editore: Chiunque potrà scegliere un titolo dal sito www.bertonieditore.com, ed inviare una email a j.bertoni@outlook.it con scritto: nome, cognome e titolo scelto. Verrà inviato il libro in formato digitale (pdf o ebook)
 - L'Automobile: Puoi richiedere l'abbonamento gratuito scrivendo una mail a solidarietadigitale@lautomobile.it con oggetto “Solidarietà l'Automobile”. Riceverai una mail con il codice e le istruzioni per attivare l'abbonamento gratuito.
-
+- Allevatori Top - la rivista per i professionisti della zootecnia: Abbonamento omaggio trimestrale alla rivista Allevatori Top in formato digitale per tutti gli allevatori, i veterinari e i tecnici delle aziende del settore zootecnico. Basta inviare una mail a abbonamenti@allevatori.top mettendo in oggetto "SOLIDARIETA' DIGITALE" e indicando: 1) nome azienda 2) nome della persona a cui inviare la rivista 3) specie allevata/area attività 4) indirizzo postale 5) indirizzo mail
 
 ### Fumetti
 
