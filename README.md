@@ -101,3 +101,4 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - https://solidarietadigitale.agid.gov.it/#/
 - https://twitter.com/marchalberto/status/1238754155424108545
 - https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/
+- http://www.regione.emilia-romagna.it/notizie/attualita/laculturanonsiferma-boom-di-visualizzazioni-on-line-e-spettatori-tv-per-la-prima-diretta-streaming-di-ieri-sera
