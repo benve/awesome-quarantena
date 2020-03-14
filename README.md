@@ -41,6 +41,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Madre door-to-door Napoli](http://www.madrenapoli.it/calendario/madre-door-to-door/): Si parte domenica 15 marzo, alle ore 11.30
  - [Pinacoteca Brera](https://pinacotecabrera.org/)
  - [Uffizi](https://www.uffizi.it/mostre-virtuali)
+   - [Fabbriche di Storie](https://www.uffizi.it/mostre-virtuali/fabbrichedistorie#)
  - [Musei Vaticani](http://www.museivaticani.va/content/museivaticani/it/collezioni/catalogo-online.html)
 
 
