@@ -51,6 +51,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 #### Storia
 
 - [Lezioni di Storia](https://www.youtube.com/channel/UCNd9ycN9KUm4efGdbosmLxw)
+- [Apollo 13 in real-time](https://apolloinrealtime.org/)
 
 ## Ascoltare su internet
 
