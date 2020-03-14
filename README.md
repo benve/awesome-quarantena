@@ -57,6 +57,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [Alle Otto Della Sera](https://www.raiplayradio.it/programmi/alleottodellasera/archivio/puntate/): ciclo di podcast su storia cultura, eventi e personaggi...
 - [Storie Libere](https://storielibere.fm/): tantissimi podcast interessanti
   - [IL GORILLA CE L’HA PICCOLO](https://storielibere.fm/il-gorilla/): sessualità nel mondo animale
+- [Italian Golden Age Soundtracks, a playlist by calibro35 on Spotify](https://open.spotify.com/playlist/617dp6jlDVcJ2jsmncc6ui?si=Nf_te0cPTiuVyHMELWqEFQ)
 
 ## Leggere
 
