@@ -50,6 +50,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 #### Storia
 
 - [Lezioni di Storia](https://www.youtube.com/channel/UCNd9ycN9KUm4efGdbosmLxw)
+- [Interventi di Luciano Canfora - RadioRadicale](https://www.radioradicale.it/soggetti/17714/luciano-canfora)
 - [Apollo 13 in real-time](https://apolloinrealtime.org/)
 
 ## Ascoltare su internet
