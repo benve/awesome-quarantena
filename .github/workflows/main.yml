@@ -28,3 +28,7 @@ jobs:
       with:
         name: README
         path: README.html
+        
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
