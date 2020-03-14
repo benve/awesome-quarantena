@@ -43,6 +43,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
  - [Uffizi](https://www.uffizi.it/mostre-virtuali)
    - [Fabbriche di Storie](https://www.uffizi.it/mostre-virtuali/fabbrichedistorie#)
  - [Musei Vaticani](http://www.museivaticani.va/content/museivaticani/it/collezioni/catalogo-online.html)
+ - [Pesaro Musei](https://www.pesaromusei.it/news/laculturanonsiferma-con-le-video-conferenze-di-pesaro-musei/)
 
 
 ### Documentari e lezioni
