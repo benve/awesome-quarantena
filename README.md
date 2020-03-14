@@ -45,6 +45,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 ### Documentari e lezioni
 
 - [Attività educative per bambini e ragazzi](https://scienzaexpress.it/2020/03/solidarieta-digitale/)
+- [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
 #### Storia
 
