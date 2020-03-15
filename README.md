@@ -62,6 +62,7 @@ Legenda:
 - [Lezioni di Storia](https://www.youtube.com/channel/UCNd9ycN9KUm4efGdbosmLxw)
 - [Interventi di Luciano Canfora - RadioRadicale](https://www.radioradicale.it/soggetti/17714/luciano-canfora)
 - [Apollo 13 in real-time](https://apolloinrealtime.org/)
+- [Il podcast di Alessandro Barbero: Lezioni e Conferenze di Storia](https://www.spreaker.com/show/il-podcast-di-alessandro-barbero)
 
 ## Ascoltare su internet
 
@@ -69,7 +70,9 @@ Legenda:
 - [Alle Otto Della Sera](https://www.raiplayradio.it/programmi/alleottodellasera/archivio/puntate/): ciclo di podcast su storia cultura, eventi e personaggi...
 - [Storie Libere](https://storielibere.fm/): tantissimi podcast interessanti
   - [IL GORILLA CE L’HA PICCOLO](https://storielibere.fm/il-gorilla/): sessualità nel mondo animale
+  - [MORGANA di Michela Murgia](https://storielibere.fm/morgana/): STORIE DI RAGAZZE CHE TUA MADRE NON AVREBBE APPROVATO
 - [Italian Golden Age Soundtracks, a playlist by calibro35 on Spotify](https://open.spotify.com/playlist/617dp6jlDVcJ2jsmncc6ui?si=Nf_te0cPTiuVyHMELWqEFQ)
+- [Power Pizza](https://www.spreaker.com/show/power-pizza): Il podcast di cultura pop che nessuno aveva chiesto!
 
 ## Leggere
 
@@ -105,3 +108,4 @@ Legenda:
 - https://twitter.com/marchalberto/status/1238754155424108545
 - https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/
 - http://www.regione.emilia-romagna.it/notizie/attualita/laculturanonsiferma-boom-di-visualizzazioni-on-line-e-spettatori-tv-per-la-prima-diretta-streaming-di-ieri-sera
+- https://www.ilpost.it/2020/03/15/podcast-italiani-consigli/
