@@ -7,7 +7,7 @@ L'obbiettivo è distrarsi facendo qualcosa di divertente aspettando di tornare a
 L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020](https://it.wikipedia.org/wiki/Pandemia_di_COVID-19_del_2019-2020) ma può essere utile a chiunque sia bloccato in casa per un periodo più o meno lungo, per qualsiasi motivo.
 
 Legenda:
-- 👩‍👧: per bambini
+- 👩‍👧: da fare e guardare insieme in famiglia
 
 ## Guardare su internet
 
