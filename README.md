@@ -6,6 +6,9 @@ L'obbiettivo è distrarsi facendo qualcosa di divertente aspettando di tornare a
 
 L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020](https://it.wikipedia.org/wiki/Pandemia_di_COVID-19_del_2019-2020) ma può essere utile a chiunque sia bloccato in casa per un periodo più o meno lungo, per qualsiasi motivo.
 
+Legenda:
+- 👩‍👧: per bambini
+
 ## Guardare su internet
 
 - [YouTube #laculturanonsiferma](https://www.youtube.com/results?search_query=%23laculturanonsiferma)
@@ -40,7 +43,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 - [MAMBO Bologna](https://www.youtube.com/watch?v=qZ8qe6sojLI&list=PLKEGGAZVAqrz5vE79RgmUvpxrKyZvwkn-)
 - [Google Arts & Culture - Collezioni](https://artsandculture.google.com/partner?hl=it)
 - [Museo Egizio, Torino](https://www.facebook.com/museoegizio/)
-- [Museo Popoli e Culture di Milano](https://www.pimemilano.com/News-Museo/videolab-costruiamo-un-quadrato-da-letterato.html): Costruiamo un quadrato da letterato cinese. Da costruire, per bambini.
+- 👩‍👧 [Museo Popoli e Culture di Milano](https://www.pimemilano.com/News-Museo/videolab-costruiamo-un-quadrato-da-letterato.html): Costruiamo un quadrato da letterato cinese. Da costruire, per bambini.
 - [Madre door-to-door Napoli](http://www.madrenapoli.it/calendario/madre-door-to-door/): Si parte domenica 15 marzo, alle ore 11.30
  - [Pinacoteca Brera](https://pinacotecabrera.org/)
  - [Uffizi](https://www.uffizi.it/mostre-virtuali)
@@ -51,7 +54,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 ### Documentari e lezioni
 
-- [Attività educative per bambini e ragazzi](https://scienzaexpress.it/2020/03/solidarieta-digitale/)
+- 👩‍👧 [Attività educative per bambini e ragazzi](https://scienzaexpress.it/2020/03/solidarieta-digitale/)
 - [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
 #### Storia
@@ -72,7 +75,7 @@ L'elenco è stato creato per rispondere alla [Pandemia di COVID-19 del 2019-2020
 
 - [Il Saggiatore - ebook in regalo](https://www.ilsaggiatore.com/solidarieta/): Ogni due giorni, un diverso ebook del catalogo del Saggiatore
 - [Libro giallo ambientato nel mondo della chitarra](https://gruppoaccordo.it/giallo-01-testo.epub)
-- [Abbonamento gratuito per tre mesi a Smart Tales](http://smarttales.marshmallow-games.com/): Gli utenti interessati dall’iniziativa possono scaricare gratuitamente l'app Android o iOS alla pagina dedicata e inserire all'interno dell'app il codice **ST2020IT**
+- 👩‍👧 [Abbonamento gratuito per tre mesi a Smart Tales](http://smarttales.marshmallow-games.com/): Gli utenti interessati dall’iniziativa possono scaricare gratuitamente l'app Android o iOS alla pagina dedicata e inserire all'interno dell'app il codice **ST2020IT**
 - **Vanity Fair, Vogue, Wired, GQ, La Cucina Italiana, AD, Traveller**: In omaggio per 3 mesi le copie digitali di tutti i magazine delle Edizioni Condé Nast Italia. Scarica la copia digitale del magazine che preferisci direttamente dall’app del magazine su App Store o Google Play. Clicca su “Free Pass”, registra il tuo account ed inserisci i seguenti codici: VF4YOU per Vanity Fair, VOGUE4YOU per Vogue, WIRED4YOU per Wired, GQ4YOU per GQ, LCI4YOU per La Cucina Italiana, AD4YOU per AD, TRAVELLER4YOU per Traveller. 
 -[Elettronica In](https://www.elettronicain.it/blog/2020/03/10/ioleggoacasa-il-numero-di-marzo-e-gratis/)
 - **Gambero Rosso**: Scarica l'app Gambero Rosso da App store o Google store sul tuo smartphone o tablet. Fai login dopo esserti registrato sulla pagina dedicata https://www.gamberorosso.it/abbonamento-rivista-digitale-3-mesi-gratis/. Saranno disponibili gratuitamente i tre numeri della rivista pubblicati dopo la data di registrazione.
