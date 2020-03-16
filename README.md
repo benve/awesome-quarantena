@@ -25,6 +25,7 @@ Legenda:
 - [𝗩𝗘𝗦𝗨𝗩𝗜𝗔𝗡𝗔 𝗰𝗼𝗻 𝗠𝗮𝗿𝗰𝗼 𝗭𝘂𝗿𝘇𝗼𝗹𝗼 𝗲 𝗗𝗮𝘃𝗶𝗱𝗲 𝗖𝗼𝘀𝘁𝗮𝗴𝗹𝗶𝗼𝗹𝗮](https://www.facebook.com/watch/?v=2759127240880636) Sabato 14 marzo ore 21.00
 - [Decameron - una storia ci salverà](https://www.facebook.com/videodecameron/)
 - [Fondazione Cineteca Milano](https://www.cinetecamilano.it/news/le-novita-in-streaming-)
+- [Opera di Vienna](https://www.staatsoperlive.com/)
 
 ### Streaming Gratuito
 
