@@ -80,6 +80,7 @@ Legenda:
 ## Leggere
 
 - [Il Saggiatore - ebook in regalo](https://www.ilsaggiatore.com/solidarieta/): Ogni due giorni, un diverso ebook del catalogo del Saggiatore
+- [Kobo Mondadori ebooks](https://www.kobo.com/it/it/p/solidarietadigitale)
 - [Libro giallo ambientato nel mondo della chitarra](https://gruppoaccordo.it/giallo-01-testo.epub)
 - 👩‍👧 [Abbonamento gratuito per tre mesi a Smart Tales](http://smarttales.marshmallow-games.com/): Gli utenti interessati dall’iniziativa possono scaricare gratuitamente l'app Android o iOS alla pagina dedicata e inserire all'interno dell'app il codice **ST2020IT**
 - **Vanity Fair, Vogue, Wired, GQ, La Cucina Italiana, AD, Traveller**: In omaggio per 3 mesi le copie digitali di tutti i magazine delle Edizioni Condé Nast Italia. Scarica la copia digitale del magazine che preferisci direttamente dall’app del magazine su App Store o Google Play. Clicca su “Free Pass”, registra il tuo account ed inserisci i seguenti codici: VF4YOU per Vanity Fair, VOGUE4YOU per Vogue, WIRED4YOU per Wired, GQ4YOU per GQ, LCI4YOU per La Cucina Italiana, AD4YOU per AD, TRAVELLER4YOU per Traveller. 
@@ -112,3 +113,4 @@ Legenda:
 - https://www.linkiesta.it/it/article/2020/03/13/musei-visitare-online-uffizi-brera-hermitage/45834/
 - http://www.regione.emilia-romagna.it/notizie/attualita/laculturanonsiferma-boom-di-visualizzazioni-on-line-e-spettatori-tv-per-la-prima-diretta-streaming-di-ieri-sera
 - https://www.ilpost.it/2020/03/15/podcast-italiani-consigli/
+- https://www.wired.it/internet/web/2019/10/07/film-gratis-internet/
