@@ -114,3 +114,4 @@ Legenda:
 - http://www.regione.emilia-romagna.it/notizie/attualita/laculturanonsiferma-boom-di-visualizzazioni-on-line-e-spettatori-tv-per-la-prima-diretta-streaming-di-ieri-sera
 - https://www.ilpost.it/2020/03/15/podcast-italiani-consigli/
 - https://www.wired.it/internet/web/2019/10/07/film-gratis-internet/
+- https://www.open.online/temi/di-necessita-virtu/
