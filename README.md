@@ -70,6 +70,7 @@ Legenda:
 ## Ascoltare su internet
 
 - [Ad alta voce](https://www.raiplayradio.it/programmi/adaltavoce/): audiolibri
+- [Audible](https://www.audible.it/ep/a-casa-con-audible)
 - [Alle Otto Della Sera](https://www.raiplayradio.it/programmi/alleottodellasera/archivio/puntate/): ciclo di podcast su storia cultura, eventi e personaggi...
 - [Storie Libere](https://storielibere.fm/): tantissimi podcast interessanti
   - [IL GORILLA CE L’HA PICCOLO](https://storielibere.fm/il-gorilla/): sessualità nel mondo animale
