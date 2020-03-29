@@ -53,6 +53,8 @@ Legenda:
    - [Fabbriche di Storie](https://www.uffizi.it/mostre-virtuali/fabbrichedistorie#)
  - [Musei Vaticani](http://www.museivaticani.va/content/museivaticani/it/collezioni/catalogo-online.html)
  - [Pesaro Musei](https://www.pesaromusei.it/news/laculturanonsiferma-con-le-video-conferenze-di-pesaro-musei/)
+ - [Scuderie del Quirinale - Raffaello](https://www.youtube.com/watch?v=F3JDrfGfGUk)
+
 
 
 ### Documentari e lezioni
@@ -116,3 +118,4 @@ Legenda:
 - https://www.ilpost.it/2020/03/15/podcast-italiani-consigli/
 - https://www.wired.it/internet/web/2019/10/07/film-gratis-internet/
 - https://www.open.online/temi/di-necessita-virtu/
+- https://agcult.it/a/16525/2020-03-26/scuderie-del-quirinale-la-visita-virtuale-della-mostra-raffaello-e-da-oggi-online
