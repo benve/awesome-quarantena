@@ -119,3 +119,4 @@ Legenda:
 - https://www.wired.it/internet/web/2019/10/07/film-gratis-internet/
 - https://www.open.online/temi/di-necessita-virtu/
 - https://agcult.it/a/16525/2020-03-26/scuderie-del-quirinale-la-visita-virtuale-della-mostra-raffaello-e-da-oggi-online
+- https://www.internazionale.it/notizie/francesco-boille/2020/03/25/film-gratis-open-culture
