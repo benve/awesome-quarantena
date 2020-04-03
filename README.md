@@ -61,6 +61,7 @@ Legenda:
 
 - 👩‍👧 [Attività educative per bambini e ragazzi](https://scienzaexpress.it/2020/03/solidarieta-digitale/)
 - [AlphaGo - The Movie | Full Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+- [Sky Arte](https://arte.sky.it/)
 
 #### Storia
 
@@ -93,6 +94,7 @@ Legenda:
 - **Bertoni Editore**: Chiunque potrà scegliere un titolo dal sito www.bertonieditore.com, ed inviare una email a j.bertoni@outlook.it con scritto: nome, cognome e titolo scelto. Verrà inviato il libro in formato digitale (pdf o ebook)
 - **L'Automobile**: Puoi richiedere l'abbonamento gratuito scrivendo una mail a solidarietadigitale@lautomobile.it con oggetto “Solidarietà l'Automobile”. Riceverai una mail con il codice e le istruzioni per attivare l'abbonamento gratuito.
 - [Edizioni Dedalo](https://www.edizionidedalo.it/content/solidarieta-digitale)
+- [CNR - Rimani in casa e leggi un fumetto!](https://www.cnr.it/it/comics-and-science)
 
 ### Fumetti
 
@@ -120,3 +122,4 @@ Legenda:
 - https://www.open.online/temi/di-necessita-virtu/
 - https://agcult.it/a/16525/2020-03-26/scuderie-del-quirinale-la-visita-virtuale-della-mostra-raffaello-e-da-oggi-online
 - https://www.internazionale.it/notizie/francesco-boille/2020/03/25/film-gratis-open-culture
+- https://www.fumettologica.it/2020/04/comics-science-fumetti-gratis/
