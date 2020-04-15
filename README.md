@@ -104,6 +104,7 @@ Legenda:
 
 ### Board Game
 - [Board Game Arena](https://boardgamearena.com/lobby)
+- [Print & Play](https://print-and-play.asmodee.fun/it/)
 
 ## Giocare da soli
 
