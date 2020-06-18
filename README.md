@@ -80,6 +80,7 @@ Legenda:
   - [MORGANA di Michela Murgia](https://storielibere.fm/morgana/): STORIE DI RAGAZZE CHE TUA MADRE NON AVREBBE APPROVATO
 - [Italian Golden Age Soundtracks, a playlist by calibro35 on Spotify](https://open.spotify.com/playlist/617dp6jlDVcJ2jsmncc6ui?si=Nf_te0cPTiuVyHMELWqEFQ)
 - [Power Pizza](https://www.spreaker.com/show/power-pizza): Il podcast di cultura pop che nessuno aveva chiesto!
+- [Librivox](https://librivox.org/) free public domain audiobooks
 
 ## Leggere
 
